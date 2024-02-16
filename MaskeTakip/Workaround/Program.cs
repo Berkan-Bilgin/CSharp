@@ -16,6 +16,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             person1.DateOfBirthYear = 1996;
             person1.NationalIdentity = "123";
 
+            Console.WriteLine("deneme12");
+
             
 
             PttManager pttManager = new PttManager(new PersonManager());
